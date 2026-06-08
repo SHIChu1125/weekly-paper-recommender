@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Personal Thermal Management Weekly Papers</title>
+    <link>index.html</link>
+    <description>Weekly bilingual paper recommendations for personal thermal management, cooling garments, thermal comfort, and heat stress.</description>
+    <lastBuildDate>Mon, 08 Jun 2026 03:59:29 +0000</lastBuildDate>
+    
+    <item>
+      <title>Cooling garment improves outdoor thermal comfort during heat stress</title>
+      <link>https://example.com/mock-1</link>
+      <guid isPermaLink="false">doi:10.0000/mock-1</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>待翻译
+
+待翻译
+
+This field study evaluates cooling performance for personal thermal management in hot outdoor environments.</description>
+    </item>
+    <item>
+      <title>Environmental applicability of a wearable cooling strategy</title>
+      <link>https://example.com/mock-2</link>
+      <guid isPermaLink="false">title:environmental applicability of a wearable cooling strategy</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description>待翻译
+
+待翻译
+
+The work compares cooling performance and thermal comfort across humid and dry environments.</description>
+    </item>
+  </channel>
+</rss>

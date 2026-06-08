@@ -1,0 +1,71 @@
+{
+  "topic": "Personal Thermal Management",
+  "generated_at": "2026-06-08T03:59:29.800210+00:00",
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "keywords": [
+    "personal thermal management",
+    "cooling strategy",
+    "Cooling garment",
+    "Thermal comfort",
+    "cooling performance",
+    "Environmental applicability",
+    "Outdoor Thermal Comfort",
+    "Heat Stress"
+  ],
+  "papers": [
+    {
+      "id": "mock-1",
+      "source": "Mock",
+      "title": "Cooling garment improves outdoor thermal comfort during heat stress",
+      "title_zh": "待翻译",
+      "abstract": "This field study evaluates cooling performance for personal thermal management in hot outdoor environments.",
+      "abstract_zh": "待翻译",
+      "authors": [
+        "Jane Researcher",
+        "Wei Zhang"
+      ],
+      "published": "2026-06-04",
+      "url": "https://example.com/mock-1",
+      "doi": "10.0000/mock-1",
+      "arxiv_id": "",
+      "venue": "",
+      "citation_count": 3,
+      "matched_keywords": [
+        "personal thermal management",
+        "Cooling garment",
+        "Thermal comfort",
+        "cooling performance",
+        "Outdoor Thermal Comfort",
+        "Heat Stress"
+      ],
+      "score": 28.693,
+      "translation_status": "skipped"
+    },
+    {
+      "id": "mock-2",
+      "source": "Mock",
+      "title": "Environmental applicability of a wearable cooling strategy",
+      "title_zh": "待翻译",
+      "abstract": "The work compares cooling performance and thermal comfort across humid and dry environments.",
+      "abstract_zh": "待翻译",
+      "authors": [
+        "A. Kumar"
+      ],
+      "published": "2026-06-05",
+      "url": "https://example.com/mock-2",
+      "doi": "",
+      "arxiv_id": "",
+      "venue": "",
+      "citation_count": 1,
+      "matched_keywords": [
+        "cooling strategy",
+        "Thermal comfort",
+        "cooling performance",
+        "Environmental applicability"
+      ],
+      "score": 20.597,
+      "translation_status": "skipped"
+    }
+  ]
+}

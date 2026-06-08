@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mock-1",
+    "source": "Mock",
+    "title": "Cooling garment improves outdoor thermal comfort during heat stress",
+    "abstract": "This field study evaluates cooling performance for personal thermal management in hot outdoor environments.",
+    "authors": ["Jane Researcher", "Wei Zhang"],
+    "published": "2026-06-04",
+    "url": "https://example.com/mock-1",
+    "doi": "10.0000/mock-1",
+    "citation_count": 3
+  },
+  {
+    "id": "mock-2",
+    "source": "Mock",
+    "title": "Environmental applicability of a wearable cooling strategy",
+    "abstract": "The work compares cooling performance and thermal comfort across humid and dry environments.",
+    "authors": ["A. Kumar"],
+    "published": "2026-06-05",
+    "url": "https://example.com/mock-2",
+    "citation_count": 1
+  }
+]

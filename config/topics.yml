@@ -1,0 +1,74 @@
+name: Personal Thermal Management
+timezone: Asia/Shanghai
+weekly_limit: 10
+lookback_days: 7
+
+keywords:
+  - personal thermal management
+  - cooling strategy
+  - Cooling garment
+  - Thermal comfort
+  - cooling performance
+  - Environmental applicability
+  - Outdoor Thermal Comfort
+  - Heat Stress
+
+broad_keywords:
+  - Heat Stress
+
+exclude_keywords:
+  - plant
+  - plants
+  - crop
+  - crops
+  - agriculture
+  - agricultural
+  - tomato
+  - wheat
+  - rice
+  - maize
+  - soybean
+  - arabidopsis
+  - photosynthesis
+  - chlorophyll
+  - jasmonate
+  - abscisic acid
+  - soil
+  - fertilizer
+  - livestock
+  - poultry
+  - broiler
+  - chicken
+  - cattle
+  - dairy cow
+  - cow
+  - sheep
+  - ewe
+  - goat
+  - swine
+  - pig
+  - rumen
+  - ruminal
+  - animal husbandry
+  - veterinary
+  - microbial
+  - microorganism
+  - microorganisms
+  - bacteria
+  - bacterial
+  - microbiota
+  - microalgae
+  - algae
+  - microcystis
+  - fungal
+  - yeast
+  - fermentation
+
+sources:
+  semantic_scholar: true
+  arxiv: true
+
+site:
+  title: Personal Thermal Management Weekly Papers
+  description: Weekly bilingual paper recommendations for personal thermal management, cooling garments, thermal comfort, and heat stress.
+  base_url: ""
