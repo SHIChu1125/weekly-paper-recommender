@@ -33,6 +33,15 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests
 
+      - name: Check OpenAI API key
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::OPENAI_API_KEY is not configured. Add it in Settings -> Secrets and variables -> Actions -> Repository secrets."
+            exit 1
+          fi
+
       - name: Generate weekly site
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
