@@ -1,6 +1,6 @@
 {
   "topic": "Personal Thermal Management",
-  "generated_at": "2026-06-08T06:15:09.631516+00:00",
+  "generated_at": "2026-06-08T06:20:48.285642+00:00",
   "week_start": "2026-06-01",
   "week_end": "2026-06-07",
   "keywords": [
@@ -205,31 +205,6 @@
       "translation_status": "missing_api_key"
     },
     {
-      "id": "9f88f77b934dee5c4287dffcd965353c3dc9afa7",
-      "source": "Semantic Scholar",
-      "title": "Replacing Multisensor Thermal Comfort Monitoring With Thermal Imaging and Deep Learning: An IoT-Validated Study",
-      "title_zh": "待翻译",
-      "abstract": "Thermal comfort assessment is a critical factor in indoor environment quality, directly influencing occupant well-being and energy efficiency in smart buildings. Conventional thermal comfort monitoring systems rely on multiple environmental sensors, such as temperature, relative humidity, and air speed. This letter proposes a novel approach for indoor thermal comfort classification using thermal images only, eliminating the need for multiple physical sensors. A convolutional neural network (CNN) is developed to classify thermal images into two categories: thermally comfortable and thermally uncomfortable. The ground truth labels are obtained based on the American Society of Heating, Refrigerating, and Air-Conditioning Engineers standards. Thermal images are preprocessed and used to train the CNN model through supervised learning. Experimental results demonstrate a high level of agreement between the CNN-based predictions and the traditional predict mean vote-based comfort assessment. The proposed model achieved an overall classification accuracy of 91%, with F1-scores of 0.89 and 0.92 for comfortable and uncomfortable classes, respectively. These results indicate that thermal images contain sufficient spatial and temperature-related information to accurately characterize indoor thermal comfort conditions. The proposed approach provides a fast-response and scalable alternative to traditional multisensor thermal comfort monitoring systems. This study highlights the potential of thermal imaging combined with deep learning as a viable solution for real-time thermal comfort evaluation in smart building applications.",
-      "abstract_zh": "待翻译",
-      "authors": [
-        "Hiba Darwish",
-        "Raymond C. Tesiero",
-        "B. Gokaraju",
-        "A. Tereda"
-      ],
-      "published": "2026-06-01",
-      "url": "https://www.semanticscholar.org/paper/9f88f77b934dee5c4287dffcd965353c3dc9afa7",
-      "doi": "10.1109/LSENS.2026.3693532",
-      "arxiv_id": "",
-      "venue": "IEEE Sensors Letters",
-      "citation_count": 0,
-      "matched_keywords": [
-        "Thermal comfort"
-      ],
-      "score": 10.75,
-      "translation_status": "missing_api_key"
-    },
-    {
       "id": "4cb163c4fcf87a782c868bb7d5abbdddcd7fdb71",
       "source": "Semantic Scholar",
       "title": "Dual Attention Reinforcement Learning-Based Thermal Management Strategy for Battery Electric Vehicles With Thermal Comfort Perception",
@@ -249,6 +224,31 @@
       "doi": "10.1109/TTE.2026.3665750",
       "arxiv_id": "",
       "venue": "IEEE Transactions on Transportation Electrification",
+      "citation_count": 0,
+      "matched_keywords": [
+        "Thermal comfort"
+      ],
+      "score": 10.75,
+      "translation_status": "missing_api_key"
+    },
+    {
+      "id": "9f88f77b934dee5c4287dffcd965353c3dc9afa7",
+      "source": "Semantic Scholar",
+      "title": "Replacing Multisensor Thermal Comfort Monitoring With Thermal Imaging and Deep Learning: An IoT-Validated Study",
+      "title_zh": "待翻译",
+      "abstract": "Thermal comfort assessment is a critical factor in indoor environment quality, directly influencing occupant well-being and energy efficiency in smart buildings. Conventional thermal comfort monitoring systems rely on multiple environmental sensors, such as temperature, relative humidity, and air speed. This letter proposes a novel approach for indoor thermal comfort classification using thermal images only, eliminating the need for multiple physical sensors. A convolutional neural network (CNN) is developed to classify thermal images into two categories: thermally comfortable and thermally uncomfortable. The ground truth labels are obtained based on the American Society of Heating, Refrigerating, and Air-Conditioning Engineers standards. Thermal images are preprocessed and used to train the CNN model through supervised learning. Experimental results demonstrate a high level of agreement between the CNN-based predictions and the traditional predict mean vote-based comfort assessment. The proposed model achieved an overall classification accuracy of 91%, with F1-scores of 0.89 and 0.92 for comfortable and uncomfortable classes, respectively. These results indicate that thermal images contain sufficient spatial and temperature-related information to accurately characterize indoor thermal comfort conditions. The proposed approach provides a fast-response and scalable alternative to traditional multisensor thermal comfort monitoring systems. This study highlights the potential of thermal imaging combined with deep learning as a viable solution for real-time thermal comfort evaluation in smart building applications.",
+      "abstract_zh": "待翻译",
+      "authors": [
+        "Hiba Darwish",
+        "Raymond C. Tesiero",
+        "B. Gokaraju",
+        "A. Tereda"
+      ],
+      "published": "2026-06-01",
+      "url": "https://www.semanticscholar.org/paper/9f88f77b934dee5c4287dffcd965353c3dc9afa7",
+      "doi": "10.1109/LSENS.2026.3693532",
+      "arxiv_id": "",
+      "venue": "IEEE Sensors Letters",
       "citation_count": 0,
       "matched_keywords": [
         "Thermal comfort"
