@@ -1,6 +1,6 @@
 {
   "topic": "Personal Thermal Management",
-  "generated_at": "2026-06-08T06:02:04.570430+00:00",
+  "generated_at": "2026-06-08T06:15:09.631516+00:00",
   "week_start": "2026-06-01",
   "week_end": "2026-06-07",
   "keywords": [
@@ -15,223 +15,270 @@
   ],
   "papers": [
     {
-      "id": "1794997a0b577b3113562d2c16d33abb208df29d",
+      "id": "9fc870d9e92d1af0d1afd8aa8833fea44dcfd7a7",
       "source": "Semantic Scholar",
-      "title": "Bibliometric review of gyroscopic mechanisms for adaptive indoor environmental quality control in buildings",
+      "title": "A spatiotemporal analysis of outdoor thermal comfort and spatial configuration influences on children's urban liveability in a semi-arid Algerian context",
       "title_zh": "待翻译",
-      "abstract": "This study investigates how adaptive gyroscopic systems can improve indoor environmental quality (IEQ) and support low-energy building performance in Sub-Saharan Africa. The region faces persistent heat stress and unreliable electricity, and most buildings rely on passive strategies that cannot adjust to changing conditions. The study addresses the lack of research connecting gyroscopic mechanisms to climate-responsive design in this context. A bibliometric review supported by the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) protocol was conducted using Scopus publications from 2003 to 2024. Keyword co-occurrence, citation mapping, and thematic clustering were used to examine research on thermal comfort, ventilation, adaptive shading, energy use, and emerging gyroscopic or AI-assisted control systems. The analysis shows growing interest in adaptive environmental control, though direct building applications of gyroscopic systems remain limited. Two main clusters emerged: one focused on IEQ performance (thermal comfort, ventilation, energy efficiency) and another on regional sustainability themes. Evidence suggests that gyroscopic mechanisms, especially when paired with lightweight AI tools, can support airflow regulation, sun-responsive shading, and simple energy-management functions suited to low-energy buildings. Further prototype development and real-world testing are needed. Gyroscopic systems can strengthen passive strategies without relying on mechanical cooling. More stable indoor conditions can improve comfort and daily well-being in heat-stressed communities. This study is among the first to link adaptive gyroscopic systems with IEQ and low-energy performance in Sub-Saharan Africa.",
+      "abstract": "This study explicitly investigates how outdoor thermal comfort (OTC) and spatial configuration jointly shape children's urban liveability (CUL) in the Square of El Khroub, a semi-arid context. It further examines which factors most strongly influence CUL, particularly where thermal conditions often outweigh spatial qualities, underscoring the need for inclusive, climate-responsive and child-friendly urban spaces. A mixed-methods approach was used, combining qualitative behavioural mapping and ethically approved surveys of children (6–12) and caregivers with quantitative on-site measurements and simulations of mean radiant temperature (Tmrt) and Universal Thermal Climate Index (UTCI) in Rhinoceros, plus spatial analysis in DepthmapX using visual integration (VI) and tchoice. The sample size was pragmatic and Pearson correlations explored spatial–thermal influences. Results show that OTC impacts CUL more than spatial configuration. Although spatial connectivity correlated with children's activity (R2 = 0.89, p < 0.05), usage dropped by 72% under thermal stress (Tmrt >40°C; UTCI >38°C). Child presence increased in cooler evenings (UTCI 23–28°C), while spatial integration remained stable. Highly integrated areas (VI = 18.43) were underused in heat, whereas cooler, less integrated zones (VI = 14.81, Tmrt <36°C) attracted more use, highlighting OTC's temporal primacy. This study integrates spatiotemporal thermal analysis with Space Syntax to explain CUL in a semi-arid Algerian context. It demonstrates that thermal stress consistently outweighs spatial configuration in shaping CUL, challenging static design assumptions. The findings offer clear guidance for climate-responsive, child-centred urban planning in thermally stressed environments.",
       "abstract_zh": "待翻译",
       "authors": [
-        "S. Stephen",
-        "Jummai Bello",
-        "C. Aigbavboa",
-        "Ayodeji Emmanuel Oke",
-        "S. Adekunle",
-        "O. Tambwe"
+        "Abir Labdani",
+        "S. Fezzai",
+        "Lazhar Gherzouli",
+        "Islam Boukhelkhal",
+        "Radia Bouarroudj"
       ],
-      "published": "2026-06-04",
-      "url": "https://www.semanticscholar.org/paper/1794997a0b577b3113562d2c16d33abb208df29d",
-      "doi": "10.1108/bepam-11-2025-0374",
+      "published": "2026-06-02",
+      "url": "https://www.semanticscholar.org/paper/9fc870d9e92d1af0d1afd8aa8833fea44dcfd7a7",
+      "doi": "10.1108/ohi-07-2025-0251",
       "arxiv_id": "",
-      "venue": "Built Environment Project and Asset Management",
+      "venue": "Open House International",
       "citation_count": 0,
       "matched_keywords": [
         "Thermal comfort",
-        "cooling performance",
+        "Outdoor Thermal Comfort",
         "Heat Stress"
       ],
-      "score": 8.0,
+      "score": 20.5,
       "translation_status": "missing_api_key"
     },
     {
-      "id": "e88b75ec29cff9877cb3e9c390da4cae6418a7d6",
+      "id": "c96a7303c8aeed61dd5fd371e20977876a84cf83",
       "source": "Semantic Scholar",
-      "title": "Research on Field Weed Detection Methods for Sweet Corn Seedlings and Laser Weed Control Experiments",
+      "title": "Winter outdoor thermal comfort of older people with different degrees of frailty: A study in Nanyang city, China’s hot-summer and cold-winter region",
       "title_zh": "待翻译",
-      "abstract": "Sweet corn has high economic value and is consumed directly, requiring strict environmental and management conditions. However, weed infestation during growth seriously affects yield and quality, while conventional chemical weed control may compromise product safety. Laser weeding offers an effective alternative, with precise weed detection and localization as its core requirement. This study proposes YOLO-GFD, a lightweight weed detection algorithm for sweet corn fields. Compared with the original model, YOLO-GFD increased mAP@0.5 by 10.61 percentage points, reduced floating-point operations by 0.6 percentage points, and achieved an average precision of 95.77%. Field trials further showed a real-time weed detection rate of 93.1% and a corn seedling misdetection rate of 1.1%, indicating strong practical applicability. In addition, weed control experiments using 110 W near-infrared and blue lasers under different power levels and irradiation durations identified suitable laser parameters for field laser weeding. Overall, YOLO-GFD meets the real-time accuracy requirements of autonomous laser weeding and provides a reliable basis for visual recognition and laser parameter optimization in sweet corn production.",
+      "abstract": "The thermal comfort of outdoor environments in winter directly impacts the spatial utilization efficiency of urban parks and the physical and mental health of the elderly. This study uses Nanyang People’s Park, which is popular for local elderly, as a case study. Using the FRAIL scale to categorize different levels of frailty, combined with objective microclimate field measurements and subjective thermal comfort questionnaires, the study conducts regression analysis between the calculated physiological equivalent temperature and the thermal comfort voting results. A model for evaluating the thermal comfort of older people in urban parks during winter in hot summer and cold winter regions (HSCW) is established. The study also explores the relationships between physical, personal, social, and psychological factors and the outdoor thermal comfort of the elderly, as well as the differences in thermal adaptation among older people with varying degrees of frailty. The research findings show that the neutral temperature for no frailty is 10.29°C, 9.60°C for pre-frailty, and 8.65°C for severe frailty. As the degree of frailty increases, the outdoor thermal sensitivity of the older people gradually weakens. The adaptive behaviors of older people with different levels of frailty are greatly influenced by their specific environment. The research results provide basic data reference for the design of aging-friendly urban parks in HSCW, and also provide a renovation reference for relevant government departments to formulate the thermal comfort standards of urban parks.",
       "abstract_zh": "待翻译",
       "authors": [
-        "Yuqi Zhang",
-        "Xuehai Wang",
-        "Yang Zhou",
-        "Lili Fu",
-        "Yanlei Xu"
+        "Dong Yan",
+        "Peng Zhang",
+        "Zhiyuan Liu",
+        "Ran Chen",
+        "Biao Wang"
       ],
       "published": "2026-06-03",
-      "url": "https://www.semanticscholar.org/paper/e88b75ec29cff9877cb3e9c390da4cae6418a7d6",
-      "doi": "10.3390/agriculture16111237",
+      "url": "https://www.semanticscholar.org/paper/c96a7303c8aeed61dd5fd371e20977876a84cf83",
+      "doi": "10.1371/journal.pone.0350730",
       "arxiv_id": "",
-      "venue": "Agriculture",
+      "venue": "PLoS ONE",
       "citation_count": 0,
       "matched_keywords": [
-        "Environmental applicability"
+        "Thermal comfort",
+        "Outdoor Thermal Comfort"
       ],
-      "score": 3.75,
+      "score": 20.25,
       "translation_status": "missing_api_key"
     },
     {
-      "id": "62356573046bb441e51a8c2af1dfe1c7f3ab8843",
+      "id": "159abc2e2287f8e1fb23153c4e8ef0b3d3941680",
       "source": "Semantic Scholar",
-      "title": "Best practices on blood and blood products for a prehospital hemorrhage protocol: consensus from the 2025 Canadian prehospital transfusion summit",
+      "title": "Summer Outdoor Thermal Comfort of Lung Cancer Patients: Differences by Treatment Modality and Disease Stage",
       "title_zh": "待翻译",
-      "abstract": "Background Blood transfusion is increasingly recognized as a critical component of prehospital resuscitation. However, Canada’s vast geography, environmental extremes, and regional variation in health systems present unique challenges to standardized implementation of prehospital hemorrhage protocols (PHPs). The 2025 Canadian Prehospital Transfusion Summit (CPTS), convened by the Canadian Prehospital and Transport Transfusion (CAN-PATT) network, sought to develop consensus-driven best practices for prehospital transfusion strategies across diverse transport environments. Methods A structured roundtable consensus process was held at CPTS 2025, bringing together over 50 subject matter experts from eight provinces, six different services/systems and a variety of operational roles to discuss the past, present and future direction of out-of-hospital blood transfusion in Canada. Key domains included: activation criteria, prioritization of blood components and adjuncts, product logistics, and rural/remote applicability. Recommendations were synthesized through iterative discussion, evidence review, and thematic analysis. Each recommendation was then voted upon until consensus was reached through all participants. Results Consensus was reached on core components of a national PHP. Red blood cells and tranexamic acid were identified as foundational therapies. Freeze-dried plasma and whole blood offer logistical and clinical advantages, particularly in rural and remote areas, while fibrinogen concentrate and prothrombin complex concentrate are valuable adjuncts when plasma is unavailable. Calcium supplementation and active hypothermia prevention were emphasized as essential. Barriers to implementation included short product shelf-life, storage infrastructure, and regulatory constraints. The group recommended development of a standardized Canadian prehospital transfusion dataset and national data registry. Conclusions The panel produced 12 consensus statements based on the available evidence and expert opinion including activation criteria, prioritization of blood products and adjuncts, product logistics, and rural/remote applicability. These consensus statements establish the basis for safe and effective PHP practices in Canada.",
+      "abstract": "Outdoor thermal comfort models are generally developed for healthy populations and may not be directly applicable to patients with altered thermoregulatory capacity. This study examined summer outdoor thermal responses of lung cancer patients in Shenyang, China, focusing on differences by treatment modality and disease stage. Field microclimatic measurements and questionnaire surveys were conducted in four typical outdoor microenvironments: waterfront place, tree-shaded space, open square, and enclosed porch. A total of 706 lung cancer patients were surveyed and stratified by treatment modality and disease stage. Physiologically equivalent temperature (PET) was calculated using RayMan Pro based on measured air temperature, mean radiant temperature, air velocity, relative humidity, clothing insulation, and activity-based metabolic rate. Subgroup differences were observed in neutral PET and thermal comfort ranges. Chemotherapy patients had the highest neutral PET at 26.0 °C, while immunotherapy patients had the lowest at 22.6 °C. Radiotherapy, surgery, and targeted therapy groups showed neutral PET values of 23.3 °C, 23.7 °C, and 24.5 °C, respectively. Early-stage patients had a neutral PET of 23.8 °C, whereas late-stage patients showed a higher value of 25.8 °C and a narrower neutral range of 23.1–28.5 °C. The surgery group had a broad acceptable PET range of 20.5–28.6 °C, while the late-stage group had a narrower range of 24.7–26.8 °C. Preferred temperature was also higher in the chemotherapy and late-stage groups. These findings indicate heterogeneous summer outdoor thermal responses among lung cancer patients and provide empirical evidence for subgroup-sensitive thermal assessment and outdoor space design near healthcare facilities.",
       "abstract_zh": "待翻译",
       "authors": [
-        "Michael Peddle",
-        "Adam Greene",
-        "Jan Trojanowski",
-        "Andrew Shih",
-        "E. Chang",
-        "Susan Nahirniak",
-        "Dallas Pearson",
-        "O. Prokopchuk-Gauk",
-        "Doug Martin",
-        "J. Froh",
-        "Charles Musuka",
-        "Cindy Seidl",
-        "Yulia Lin",
-        "S. MacDonald",
-        "L. Richards",
-        "Michael Farrell",
-        "Damien Miller",
-        "Johnathan Mack",
-        "Luis Da Luz",
-        "I. Drennan",
-        "Kanwal Singh",
-        "Darshan Shingala",
-        "Brodie Nolan"
+        "Zihao Qin",
+        "Xin Wu",
+        "Yufan Dai",
+        "Xinyu Tan",
+        "Houxiang Wang",
+        "Weijie Xia",
+        "Meng Zhen"
+      ],
+      "published": "2026-06-01",
+      "url": "https://www.semanticscholar.org/paper/159abc2e2287f8e1fb23153c4e8ef0b3d3941680",
+      "doi": "10.3390/buildings16112230",
+      "arxiv_id": "",
+      "venue": "Buildings",
+      "citation_count": 0,
+      "matched_keywords": [
+        "Thermal comfort",
+        "Outdoor Thermal Comfort"
+      ],
+      "score": 19.75,
+      "translation_status": "missing_api_key"
+    },
+    {
+      "id": "5d6bf138f3ebb07003c053720ff319f9d6e16923",
+      "source": "Semantic Scholar",
+      "title": "Outdoor Thermal Comfort of University Students and Space Design Strategies for Alleviation: A Case Study in Xi’an",
+      "title_zh": "待翻译",
+      "abstract": "Amid rapid urbanization and the expansion of higher education campuses, the physical and psychological well-being of college students has garnered increasing scientific attention. Although outdoor activities are crucial for student health, participation rates are heavily constrained by outdoor thermal comfort (OTC). This study investigates the OTC of university students in Xi’an, China, utilizing the Universal Thermal Climate Index (UTCI) to assess thermal perceptions across four distinct open spaces and to propose localized bioclimatic design interventions. The results reveal four key findings: (1) The meteorological correlates of thermal sensation vary significantly by spatial typology; relative humidity (RH) and air temperature (Ta) dominate in sunken spaces (HB), whereas solar radiation (G), globe temperature (Tg), and wind velocity (Va) are the primary correlates in sports squares (CS) and activity squares (SH). (2) Thermal benchmarks exhibit remarkable spatial heterogeneity during summer. The Neutral UTCI (NUTCI) varied widely from 17.11 °C in hard-paved squares (SH) to 26.13 °C in shaded bridge areas (JG), with the corresponding neutral zones (NUTCIR) shifting accordingly. (3) Significant variations in thermal adaptation exist even within identical macro-climates, underscoring the necessity of microclimate-specific design. (4) Targeted bioclimatic strategies—including optimized vegetation deployment, shading structures, localized sprinkler systems, and permeable paving—are proposed. These findings provide actionable guidelines for urban planners and landscape architects to optimize campus environments, thereby encouraging outdoor engagement and enhancing student well-being.",
+      "abstract_zh": "待翻译",
+      "authors": [
+        "Yujuan Liu",
+        "Dixi Wu",
+        "Pengfei Yan",
+        "Shaobo Ning",
+        "Xinjiang Zhang"
+      ],
+      "published": "2026-06-01",
+      "url": "https://www.semanticscholar.org/paper/5d6bf138f3ebb07003c053720ff319f9d6e16923",
+      "doi": "10.3390/buildings16112233",
+      "arxiv_id": "",
+      "venue": "Buildings",
+      "citation_count": 0,
+      "matched_keywords": [
+        "Thermal comfort",
+        "Outdoor Thermal Comfort"
+      ],
+      "score": 19.75,
+      "translation_status": "missing_api_key"
+    },
+    {
+      "id": "f1233e98417e2e430559fdcb667cac66cbbe90b7",
+      "source": "Semantic Scholar",
+      "title": "Demand-Oriented Ventilation Performance Optimization in Multi-Occupant Environments: Balancing Thermal Comfort, Indoor Air Quality, and Energy Efficiency",
+      "title_zh": "待翻译",
+      "abstract": "High occupant density and complex airflow organization in classrooms, especially under heating conditions, make issues of thermal discomfort and indoor air quality more pronounced. Simultaneously, the trend of global low-carbon development has raised expectations for energy-efficient ventilation, creating a need to balance thermal comfort, air quality, and energy efficiency in ventilation design. This study proposes an integrated optimization framework aimed at meeting ventilation design for different decision preferences in multi-occupant environments. Firstly, airflow parameters of the system are obtained using a computational fluid dynamics (CFD) model validated by experiments. Subsequently, based on the CFD data, prediction models for ventilation performance are developed using the response surface methodology and multilayer perceptron model, respectively. Finally, the ventilation performance is optimized based on the NSGA-II and VIKOR methods. The optimal ventilation parameters are determined based on the three proposed optimization schemes to accommodate varying weather conditions and multiple requirements. The results show that compared with the benchmark case, scheme 1 increases the energy utilization coefficient (EUC) by an average of 16.25%; scheme 2 achieves a good trade-off between IAQ and energy efficiency; scheme 3 provides better pollutant control performance. In addition, the proposed NSGA-II-VIKOR method can further improve IAQ while ensuring thermal comfort, with the EUC increasing by an average of 33.1%. The findings provide recommendations for building managers to meet different requirements, promising enhancements in comfort, health, and energy efficiency in multi-occupant environments.",
+      "abstract_zh": "待翻译",
+      "authors": [
+        "Yan Bai",
+        "Qianqian Jiang",
+        "Luyao Wang"
       ],
       "published": "2026-06-03",
-      "url": "https://www.semanticscholar.org/paper/62356573046bb441e51a8c2af1dfe1c7f3ab8843",
-      "doi": "10.1186/s13049-026-01630-4",
+      "url": "https://www.semanticscholar.org/paper/f1233e98417e2e430559fdcb667cac66cbbe90b7",
+      "doi": "10.1115/1.4072084",
       "arxiv_id": "",
-      "venue": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine",
+      "venue": "Journal of Thermal Science and Engineering Apllications",
       "citation_count": 0,
       "matched_keywords": [
-        "Environmental applicability"
+        "Thermal comfort"
       ],
-      "score": 3.75,
+      "score": 11.25,
       "translation_status": "missing_api_key"
     },
     {
-      "id": "592e8ab83a034375e518388890e1c684f173e74a",
+      "id": "e4037ebcb78bded666251a659f3f5a708117c463",
       "source": "Semantic Scholar",
-      "title": "A Domain-Independent Method for Risk Reduction Based on Reverse Engineering of Sub-Additive Algebraic Inequalities",
+      "title": "Effects of Heat Saving Measures on Thermal Comfort in an Office Building in Germany",
       "title_zh": "待翻译",
-      "abstract": "This paper introduces a novel, domain-independent methodology for risk reduction based on the reverse engineering of sub-additive inequalities. The proposed approach establishes a robust and unifying theoretical framework for risk reduction that is applicable across a broad range of otherwise unrelated domains. As part of the methodology, a general sub-additive inequality is formulated and rigorously proved, together with sufficient conditions for its validity. The analysis demonstrates that, for the inequality to be reverse engineered, both the risk-controlling parameter and the measure of risk must be additive quantities. Several important special cases of general inequality are derived, and the influence of segmentation on risk reduction has been examined. The practical applicability of the proposed framework is demonstrated through diverse examples, including the reduction in expected failures through optimized inspection, mitigation of corrosion damage and environmental pollution, prevention of runaway reactions, enhancement of cutting tool reliability, and optimization of dose distribution to reduce health risks.",
+      "abstract": "This paper reports findings from a real-world laboratory that examined heat saving potential and room comfort under a range of single room control heating strategies in a fifty person office building with small shared office rooms. Overall room comfort was found to be determined by thermal comfort, by measured indoor air temperatures above 18 ◦C and by users’ perception of the weather. Visual, acoustic and respiratory factors were hardly found to influence overall room comfort. The strategies evaluated comprised no pre-heating to up to 90 minutes of pre-heating before the anticipated arrival of users. None of the strategies produced a marked reduction in reported thermal comfort, whereas heat savings of 9 to 51 % relative to a conventional heating control strategy were achieved.",
       "abstract_zh": "待翻译",
       "authors": [
-        "Michael T. Todinov"
+        "Raffaela Goldschmidt",
+        "Matthias Leger",
+        "Jens Ullmann",
+        "Peter Lierhammer",
+        "Pascal Häbig",
+        "H. Drück",
+        "L. Eltrop",
+        "Kai Hufendiek",
+        "K. Stergiaropoulos"
       ],
       "published": "2026-06-03",
-      "url": "https://www.semanticscholar.org/paper/592e8ab83a034375e518388890e1c684f173e74a",
-      "doi": "10.3390/math14111974",
+      "url": "https://www.semanticscholar.org/paper/e4037ebcb78bded666251a659f3f5a708117c463",
+      "doi": "10.52825/isec.v2i.3380",
       "arxiv_id": "",
-      "venue": "Mathematics",
+      "venue": "Proceedings",
       "citation_count": 0,
       "matched_keywords": [
-        "Environmental applicability"
+        "Thermal comfort"
       ],
-      "score": 3.75,
+      "score": 11.25,
       "translation_status": "missing_api_key"
     },
     {
-      "id": "183dcda33048fd6b618859df1a178fc5272f3c02",
+      "id": "da1addad2c08a15427f7050dccc848b736bf9724",
       "source": "Semantic Scholar",
-      "title": "Post-Hoc Robustness for Model-Based Reinforcement Learning",
+      "title": "Postoperative thermal comfort: Associations with pain, anxiety and body temperature",
       "title_zh": "待翻译",
-      "abstract": "To improve the real-world applicability of reinforcement learning (RL), the field of adversarially robust RL studies how to train agents under adversarial environment perturbations. In this setting, a protagonist agent optimizes a policy under environmental perturbations from an adversary, resulting in a zero-sum Markov game. When adversarially robust RL is combined with model-based RL, the adversary can target a learned transition model instead of the training environment. Extending this idea, this work introduces post-hoc robustification of deep RL agents at inference time. By using the learned model in combination with a trained nominal policy, our approach performs a robust policy improvement step. The goal is to improve robustness without any additional training of neural networks. Specifically, we utilize model-predictive control under adversarial rollouts, which are approximated via projected gradient descent within a bounded uncertainty set. Furthermore, these offline rollouts are performed while considering and mitigating out-of-distribution issues. The proposed methodology is validated by demonstrating significant improvements in robustness when the algorithm is evaluated in perturbed Gymnasium MuJoCo environments, while considering the computational limitations of the post-hoc inference setting.",
+      "abstract": "This prospective longitudinal observational study examined postoperative thermal comfort in relation to body temperature and explored its associations with pain and anxiety. Adults undergoing elective surgery under general anaesthesia were assessed at five time points from the day before surgery to 72 h postoperatively. Thermal comfort was lowest immediately after surgery and improved over time, whereas body temperature followed a distinct recovery pattern. Pain and anxiety were associated with lower thermal comfort, whereas body temperature and peripheral perfusion were not. These findings indicate that postoperative thermal discomfort is not explained solely by body temperature and reflects a broader symptom burden. Thermal comfort assessment in the immediate postoperative period can aid perioperative practitioners in identifying patients requiring more comprehensive symptom assessment, thereby supporting improved patient-centred care.",
       "abstract_zh": "待翻译",
       "authors": [
-        "Siemen Herremans",
-        "Ali Anwar",
-        "Siegfried Mercelis"
-      ],
-      "published": "2026-06-02",
-      "url": "https://www.semanticscholar.org/paper/183dcda33048fd6b618859df1a178fc5272f3c02",
-      "doi": "",
-      "arxiv_id": "2606.03521",
-      "venue": "",
-      "citation_count": 0,
-      "matched_keywords": [
-        "Environmental applicability"
-      ],
-      "score": 3.5,
-      "translation_status": "missing_api_key"
-    },
-    {
-      "id": "2b11e6fbc22f5673a8d04d1806b68ef0c9245717",
-      "source": "Semantic Scholar",
-      "title": "Multivariate Subset Sensor Selection Optimization for Environmental Monitoring",
-      "title_zh": "待翻译",
-      "abstract": "Environmental monitoring is crucial for climate change research, pollution control, and disaster preparedness, yet deploying extensive sensor networks faces financial and logistical constraints. This article addresses the multivariate subset sensor selection optimization (MSSSO) problem, optimizing sensor selection and placement across multiple environmental variables using particle swarm optimization (PSO) and genetic algorithms (GAs). We introduce five novel sensor placement strategies that balance sensor redundancy, spatial distribution, and cost-effectiveness. Key contributions include the formulation of these strategies, the introduction of the spatial coverage score (SCS) metric, and comprehensive benchmarking using real-world and synthetic datasets. Results demonstrate that the temporal similarity with entropy maximization (TSEM) strategy consistently achieves superior performance, minimizing error while maximizing spatial coverage. This work establishes a foundational framework for MSSSO with practical applicability to diverse environmental monitoring scenarios.",
-      "abstract_zh": "待翻译",
-      "authors": [
-        "A. Meray",
-        "Nagarajan Prabakar"
+        "Saaya Watanabe",
+        "Noriyoshi Tanaka",
+        "M. Hori",
+        "Yoriko Jutori"
       ],
       "published": "2026-06-01",
-      "url": "https://www.semanticscholar.org/paper/2b11e6fbc22f5673a8d04d1806b68ef0c9245717",
-      "doi": "10.1109/JSEN.2026.3681485",
+      "url": "https://www.semanticscholar.org/paper/da1addad2c08a15427f7050dccc848b736bf9724",
+      "doi": "10.1177/17504589261450388",
       "arxiv_id": "",
-      "venue": "IEEE Sensors Journal",
+      "venue": "Journal of Perioperative Practice",
       "citation_count": 0,
       "matched_keywords": [
-        "Environmental applicability"
+        "Thermal comfort"
       ],
-      "score": 3.25,
+      "score": 10.75,
       "translation_status": "missing_api_key"
     },
     {
-      "id": "2db2a073430293ee3c1f87d4032f75c44e024211",
+      "id": "9f88f77b934dee5c4287dffcd965353c3dc9afa7",
       "source": "Semantic Scholar",
-      "title": "Validation of an LNG Ship Added-Resistance Prediction Framework Using Onboard Measured Data",
+      "title": "Replacing Multisensor Thermal Comfort Monitoring With Thermal Imaging and Deep Learning: An IoT-Validated Study",
       "title_zh": "待翻译",
-      "abstract": "This study sets and evaluates a practical framework for predicting ship resistance under real operational conditions along a global shipping route. Despite extensive research, the literature lacks straightforward studies that separately assess wind, wave, and current resistance using real-world performance data for ships in varying conditions. To address this gap, a methodology is established using recommended semi-empirical approaches combined with full-scale onboard operational measurements and Copernicus Marine Service environmental data in a unified assessment procedure. Calm water resistance is scaled from reference values under near-calm conditions, wind resistance is calculated using established regression models, wave-induced resistance is estimated using state-of-the-art semi-empirical formulations and spectral calculations, and current effects are modelled through a dynamic correction based on speed-over-ground measurements. The aim is to assess the reliability and applicability of added resistance calculation methods recommended by recent regulatory standards. Validation is performed by comparing the predicted resistance components, converted to equivalent shaft power, against full-scale onboard shaft-power measurements. In addition, a comparison between onboard measurements of wind and current and Copernicus data is presented. Predicted resistance components are validated against full-scale power measurements, showing agreement with an average error of approximately 9%. The resulting framework provides a practical tool for assessing energy losses due to environmental factors along specific routes using readily available ship data.",
+      "abstract": "Thermal comfort assessment is a critical factor in indoor environment quality, directly influencing occupant well-being and energy efficiency in smart buildings. Conventional thermal comfort monitoring systems rely on multiple environmental sensors, such as temperature, relative humidity, and air speed. This letter proposes a novel approach for indoor thermal comfort classification using thermal images only, eliminating the need for multiple physical sensors. A convolutional neural network (CNN) is developed to classify thermal images into two categories: thermally comfortable and thermally uncomfortable. The ground truth labels are obtained based on the American Society of Heating, Refrigerating, and Air-Conditioning Engineers standards. Thermal images are preprocessed and used to train the CNN model through supervised learning. Experimental results demonstrate a high level of agreement between the CNN-based predictions and the traditional predict mean vote-based comfort assessment. The proposed model achieved an overall classification accuracy of 91%, with F1-scores of 0.89 and 0.92 for comfortable and uncomfortable classes, respectively. These results indicate that thermal images contain sufficient spatial and temperature-related information to accurately characterize indoor thermal comfort conditions. The proposed approach provides a fast-response and scalable alternative to traditional multisensor thermal comfort monitoring systems. This study highlights the potential of thermal imaging combined with deep learning as a viable solution for real-time thermal comfort evaluation in smart building applications.",
       "abstract_zh": "待翻译",
       "authors": [
-        "Ante Čalić",
-        "Nur Assani",
-        "Goran Rilje",
-        "Marko Katalinić"
+        "Hiba Darwish",
+        "Raymond C. Tesiero",
+        "B. Gokaraju",
+        "A. Tereda"
       ],
       "published": "2026-06-01",
-      "url": "https://www.semanticscholar.org/paper/2db2a073430293ee3c1f87d4032f75c44e024211",
-      "doi": "10.3390/jmse14111041",
+      "url": "https://www.semanticscholar.org/paper/9f88f77b934dee5c4287dffcd965353c3dc9afa7",
+      "doi": "10.1109/LSENS.2026.3693532",
       "arxiv_id": "",
-      "venue": "Journal of Marine Science and Engineering",
+      "venue": "IEEE Sensors Letters",
       "citation_count": 0,
       "matched_keywords": [
-        "Environmental applicability"
+        "Thermal comfort"
       ],
-      "score": 3.25,
+      "score": 10.75,
       "translation_status": "missing_api_key"
     },
     {
-      "id": "3a486fe7decb381aa42109dbbdb948d5ddbbea41",
+      "id": "4cb163c4fcf87a782c868bb7d5abbdddcd7fdb71",
       "source": "Semantic Scholar",
-      "title": "Drift-Robust Lightweight Deep Learning on Open Gas Sensor Benchmarks: A Reproducible Architecture Study with CBRN Applicability Mapping",
+      "title": "Dual Attention Reinforcement Learning-Based Thermal Management Strategy for Battery Electric Vehicles With Thermal Comfort Perception",
       "title_zh": "待翻译",
-      "abstract": "Resource-constrained edge processors deployed on unmanned aerial vehicles and wearable platforms require compact, drift-robust gas classification models for a range of environmental and security monitoring applications, including CBRN-motivated scenarios. Existing approaches rely on server-grade architectures incompatible with edge-board-scale deployment, or on classifiers that chemically degrade severely under long-term sensor drift. Each UCI gas class was mapped to a CBRN behavioral category based on physicochemical analogy (molecular functional group, vapor pressure, and metal-oxide semiconductor (MOS) cross-sensitivity pattern), following established precedent. Analyzed were Ammonia (NH3), Acetaldehyde (CH3CHO), Acetone ((CH3)2CO), Ethylene (C2H4), Ethanol (C2H5OH), Toluene (C6H5CH3). We propose herein an end-to-end pipeline integrating a novel 1-D convolutional neural network with depth-wise separable convolutions (LiteSensor-Net), INT8 post-training quantization, structured magnitude pruning, and a knowledge-distillation domain-adaptation module (KD–DM) for sensor drift compensation. Using the UCI Gas Sensor Array Drift Dataset (13,910 measurements; 16 metal-oxide sensors; six analyte gases; a 36-month work span). LiteSensor-Net achieved accuracy = 92.63 ± 2.02%, macro-F1 = 0.898, model size = 5.99 kB INT8 pruned, inference latency = 6.3 ms, RAM footprint = 31.7 kB, and energy per inference = 0.04 mJ (all metrics on Raspberry Pi 4B, ARM Cortex-A72). Under chronological forward-chaining evaluation, KD–DM–20 achieved 47.91 ± 18.79% mean accuracy over Batches 2–10, representing a +9.25 pp improvement over uncompensated NC (38.66%). A six-metric benchmark framework—accuracy, macro-F1, model size, inference latency, RAM footprint, and energy per inference—is introduced to standardize edge-AI gas classifier evaluation. The proposed pipeline provides an open-source, deployable foundation for edge-class gas classification systems, with CBRN detection as a motivating application. Full operational validation on certified chemical simulants remains as future work.",
+      "abstract": "To address the challenge of coordinated optimization between energy consumption and thermal comfort in electric vehicle thermal management systems under low-temperature conditions, this article proposes an intelligent control framework integrating a channel–temporal attention mechanism with knowledge distillation. A channel–temporal attention-enhanced dual-delay deep deterministic policy gradient (DDPG) algorithm [twin delayed deep deterministic policy gradient with channel and temporal attention (CT-TD3)] is developed to enable dynamic feature selection and long-term temporal dependency modeling of thermal states across coupled subsystems—including the battery, motor, and cabin—thereby significantly improving algorithmic convergence speed and enhancing the foresight of control decisions. Furthermore, response-layer knowledge distillation is employed to construct a lightweight thermal comfort prediction network, reducing computational latency to 0.514 ms while preserving high prediction accuracy, thus enabling real-time optimization under comfort constraints. Simulation results demonstrate that, at a low ambient temperature of $- 10~^{\\circ }$ C, the proposed method reduces total system energy consumption by 5.27% compared to the baseline strategy while increasing the proportion of occupant thermal comfort ratio to 75.03%.",
       "abstract_zh": "待翻译",
       "authors": [
-        "Soohwan Kim",
-        "Myeongsik Shin",
-        "Ku Kang",
-        "Doo-Hee Lee",
-        "David G. Churchill",
-        "Yoon Jeong Jang"
+        "Jiankun Peng",
+        "Fangshu Fu",
+        "Yongqiang Jia",
+        "Changcheng Wu",
+        "Guanghui Cao",
+        "Hailong Zhang"
       ],
       "published": "2026-06-01",
-      "url": "https://www.semanticscholar.org/paper/3a486fe7decb381aa42109dbbdb948d5ddbbea41",
-      "doi": "10.3390/molecules31111884",
+      "url": "https://www.semanticscholar.org/paper/4cb163c4fcf87a782c868bb7d5abbdddcd7fdb71",
+      "doi": "10.1109/TTE.2026.3665750",
       "arxiv_id": "",
-      "venue": "Molecules",
+      "venue": "IEEE Transactions on Transportation Electrification",
       "citation_count": 0,
       "matched_keywords": [
-        "Environmental applicability"
+        "Thermal comfort"
       ],
-      "score": 1.75,
+      "score": 10.75,
+      "translation_status": "missing_api_key"
+    },
+    {
+      "id": "3a82c50a2ecbe0c9a9c1cb211adddd90a4b5ae4d",
+      "source": "Semantic Scholar",
+      "title": "Computational Analysis of Passive Cooling Techniques for Improving Thermal Comfort in Naturally Ventilated Classrooms",
+      "title_zh": "待翻译",
+      "abstract": "By using ambient environmental factors like wind and buoyancy, natural ventilation is a successful and long-term strategy for enhancing indoor thermal comfort. This study investigates the performance of six different classroom ventilation configurations, including a roof-mounted windcatcher, variations in inlet–outlet window positions, and multiple opening arrangements. The objective is to evaluate the influence of these configurations on thermal comfort under natural airflow conditions. A cuboidal classroom model was developed based on environmental conditions representative of Madrid, Spain, and a numerical investigation was conducted using Computational Fluid Dynamics (CFD) in ANSYS fluent. The standard k–ε turbulence model coupled with the species transport model was employed to simulate airflow and pollutant dispersion. The inlet conditions were defined with an airflow velocity of 3.3 m/s and a temperature of 29 °C. Thermal comfort was assessed using average indoor temperature and heat removal effectiveness (HRE). The results indicate that airflow distribution and ventilation efficiency are highly dependent on the placement and geometry of openings. Configurations with well-defined airflow paths exhibited improved mixing and convective heat removal. Among all cases, Configuration 2 demonstrated the best performance, achieving the highest HRE of 1.946 and an average indoor temperature of 29.74 °C, indicating superior thermal comfort conditions.",
+      "abstract_zh": "待翻译",
+      "authors": [
+        "M. Jamal",
+        "P. Verma"
+      ],
+      "published": "2026-06-01",
+      "url": "https://www.semanticscholar.org/paper/3a82c50a2ecbe0c9a9c1cb211adddd90a4b5ae4d",
+      "doi": "10.69968/ijisem.2026v5i2353-363",
+      "arxiv_id": "",
+      "venue": "International Journal of Innovations in Science, Engineering And Management",
+      "citation_count": 0,
+      "matched_keywords": [
+        "cooling strategy",
+        "Thermal comfort",
+        "cooling performance"
+      ],
+      "score": 10.75,
       "translation_status": "missing_api_key"
     }
   ]
